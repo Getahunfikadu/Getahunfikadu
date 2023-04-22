@@ -1,7 +1,7 @@
 
 
 <div align="center" style="width: 100%">
-   <h1> <👋 Hi, I’m Getahunfikadu /> </h1>
+   <h1> <👋 Hi, I’m Getahun Fikadu /> </h1>
 </div>  
   
 
@@ -68,6 +68,9 @@
 </a>
 <a href="https://linkedin.com/in/linkedin.com/in/getahun-fikadu" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+<a href="https://mailto:getahunlast@gmail.com" target="_blank">
+   <img src=https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
